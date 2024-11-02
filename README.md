@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aidan</h1>
 <h3 align="center">Carleton University</h3>
 
-- 🔭 I’m currently working on [CU - RateMyProf Extension](https://github.com/AidanStran/CarletonU-RMP)
-
+- 🔭 I’m currently working on [Wildfire-DetectionSystem](https://github.com/AidanStran/WildFire-Detection)
+- I just finished [CU - RateMyProf Extension](https://github.com/AidanStran/CarletonU-RMP)
 <h3 align="left">Connect with me: @gaidan on Discord</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aidan-stranaghan-63204522b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aidan stranaghan" height="30" width="40" /></a>
