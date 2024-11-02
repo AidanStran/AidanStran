@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidan</h1>
 <h3 align="center">Carleton University</h3>
 
-- 🔭 I’m currently working on [Wildfire-DetectionSystem](https://github.com/AidanStran/WildFire-Detection)
+- 🔭 I’m currently working on [Wildfire-Detection](https://github.com/AidanStran/WildFire-Detection)
 - I just finished [CU - RateMyProf Extension](https://github.com/AidanStran/CarletonU-RMP)
 <h3 align="left">Connect with me: @gaidan on Discord</h3>
 <p align="left">
